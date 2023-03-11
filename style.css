@@ -1,0 +1,36 @@
+body{
+    font-family: 'Hanalei Fill', cursive;
+    background-color:rgb(255, 184, 104) ;
+}
+
+.header_div{
+    background-color: rgb(209, 118, 251);
+    color: azure;
+}
+
+.header_div p {
+    color: red;
+    font-size: medium;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: 'Rubik Spray Paint', cursive;
+}
+
+.main_div button{
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.copy-right_footer{
+    position: fixed;
+    color: cadetblue;
+    bottom: 0;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(210, 234, 122);
+    line-height: 3;
+    width: 100%;
+    background-color: rgb(255, 207, 207);
+    font-size: large;
+    font-weight: bold;
+}
